@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Rubik+Moonrocks&display=swap');
+
+.divheader h1 {
+	font-size: 50px;
+	font-weight: 700;
+	font-family: 'Press Start 2P', cursive;
+}
+
+.text1 p {
+	font-family: 'Rubik Moonrocks', cursive;
+}
+
+.text2 p {
+font-family: 'Press Start 2P', cursive;
+}

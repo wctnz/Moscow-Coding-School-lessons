@@ -1,0 +1,23 @@
+section {
+	color: blue;
+}
+
+div {
+	color: green;
+}
+
+.second {
+	color: darkred;
+}
+
+#sectiontwo {
+	color: olivedrab;
+}
+
+footer div {
+	color: salmon;
+}
+
+nav, h1 {
+	color: gold;
+}

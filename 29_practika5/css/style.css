@@ -1,0 +1,109 @@
+@import url(reset.css);
+
+.page {
+	width: 1440px;
+}
+
+.header1 {
+	height: 60px;
+	background-color: red;
+}
+
+.header_text1 {
+	font-family: helvetika;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 0px;
+	color: white;
+	padding: 30px 600px 20px 20px;
+}
+
+.main {
+	height: 964px;
+}
+
+.main1 {
+	position: absolute;
+	width: 400px;
+	height: 800px;
+	border: 5px solid #E5E000;
+	border-radius: 30px;
+	box-sizing: border-box;
+	top: 112px;
+	right: 970px;
+	bottom: 112px;
+	left: 70px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.main2 {
+	position: absolute;
+	width: 400px;
+	height: 800px;
+	border: 5px solid #E5E000;
+	border-radius: 30px;
+	box-sizing: border-box;
+	top: 112px;
+	right: 520px;
+	bottom: 112px;
+	left: 520px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.main3 {
+	position: absolute;
+	width: 400px;
+	height: 800px;
+	border: 5px solid #E5E000;
+	border-radius: 30px;
+	box-sizing: border-box;
+	top: 150px;
+	right: 70px;
+	bottom: 112px;
+	left: 970px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+h1 {
+	position: absolute;
+	width: 207px;
+	height: 23px;
+	top: 33px;
+	right: 160px;
+	bottom: 744px;
+	left: 33px;
+	font-family: helvetika;
+	font-size: 20px;
+	font-weight: bolder;
+}
+
+.main_text_two {
+	position: absolute;
+	width: 334px;
+	height: 670px;
+	top: 97px;
+	right: 33px;
+	bottom: 33px;
+	left: 33px;
+	font-family: times new roman;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.footer1 {
+	height: 60px;
+	background-color: red;
+}
+
+.footer_text1 {
+	font-family: helvetika;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: uppercase;
+	line-height: 0px;
+	color: white;
+	padding: 30px 1250px 20px 20px;
+}
