@@ -28,6 +28,7 @@
 	box-sizing: border-box;
 	display: inline-block;
 	margin: 50px;
+	padding: 33px;
 }
 
 h1 {
@@ -36,7 +37,8 @@ h1 {
 	font-family: helvetika;
 	font-size: 20px;
 	font-weight: bolder;
-	margin: 33px 160px 41px 33px;
+	/*margin: 33px 160px 8px 33px;*/
+	margin-bottom: 41px;
 }
 
 .main_text_two {
@@ -46,7 +48,7 @@ h1 {
 	font-size: 20px;
 	font-weight: 400;
 	text-align: left;
-	margin: 0px 0px 0px 33px;
+	/*margin: 0px 0px 0px 33px;*/
 }
 
 .footer1 {
