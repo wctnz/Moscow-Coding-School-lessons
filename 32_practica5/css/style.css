@@ -1,0 +1,50 @@
+@import url(reset.css);
+
+.header {
+	height: 140px;
+}
+
+.header-container {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+}
+
+.header-container p {
+	font-family: arial;
+	font-weight: normal;
+	font-size: 50px;
+	color: #E50043;
+	margin-top: 50px;
+	margin-right: 870px;
+	margin-left: 50px;
+	margin-bottom: 50px;
+	display: inline-block1
+}
+
+.header-nav {
+}
+
+a {
+	display: inline-block;
+	width: 100px;
+	font-family: arial;
+	font-weight: normal;
+	font-size: 40px;
+	color: #E50043;
+	text-decoration: none;
+}
+
+.header-image {
+	height: 950px;
+	background-image: url(../img/1.png);
+	display: flex;
+}
+
+.header-image p {
+	font-family: arial;
+	font-weight: normal;
+	font-size: 100px;
+	color: #E50043;
+	margin: auto;
+}
