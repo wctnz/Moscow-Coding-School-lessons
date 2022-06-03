@@ -1,0 +1,31 @@
+@import url(reset.css);
+
+a {
+	display: block;
+	width: 200px;
+	height: 50px;
+	background-color: #F8BFC7;
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	box-sizing: border-box;
+	padding: 17px;
+}
+
+a:hover {
+	background-color: #c9e2b9;
+}
+
+a:active {
+	box-shadow: 0 0 10% gold;
+	color: beige;
+}
+
+a:visited {
+	color: black;
+}
+
+a:link {
+	background-color: green;
+}

@@ -37,6 +37,11 @@ a {
 	margin-top: 140px;
 }
 
+.main-content {
+	width: 1050px;
+	margin: auto;
+}
+
 .image-container {
 	height: 950px;
 	background-image: url(../img/1.png);
@@ -52,9 +57,11 @@ a {
 	margin: auto;
 }
 
+/*
 .section-two {
 	display: flex;
 	height: 700px;
+
 }
 
 .text-section-two {
@@ -70,8 +77,10 @@ a {
 	letter-spacing: 0.05em;
 	color: #000000;
 }
+	*/
 
-.three {
+
+/*.three {
 	display: flex;
 	justify-content: space-around;
 }
@@ -103,13 +112,63 @@ a {
 	font-family: arial;
 	font-size: 25px;
 	color: #000000
+}*/
+
+.three {
+	display: flex;
+	justify-content: space-around;
 }
 
+.bottle {
+	display: flex;
+	flex-direction: column;
+}
+
+.three .bottle img {
+	width: 281px;
+	height: 863px;
+}
+
+.bottle-description {
+	text-align: center;
+	margin-top: 48px;
+	font-family: arial;
+	font-size: 25px;
+	color: #000000
+}
+
+.four div {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.four div img {
+	margin-left: 90px;
+}
+
+.border {
+	width: 1040px;
+	height: 280px;
+	border: 3px solid #F8BFC7;
+	border-radius: 20px;
+	padding: 24px;
+	margin: 150px 0px;
+	font-family: arial;
+	font-size: 25px;
+	line-height: 29px;
+	letter-spacing: 0.05em;
+	color: #000000;
+}
+
+/*
 .four {
 	height: 700px;
 	display: flex;
 }
+*/
 
+/*
 .section-four {
 	width: 1040px;
 	height: 280px;
@@ -123,7 +182,10 @@ a {
 	background-position: center left;
 	background-position-x: 80px;
 }
+*/
 
+
+/*
 .text-section-four {
 	width: 749px;
 	height: 220px;
@@ -134,6 +196,7 @@ a {
 	color: #000000;
 	margin-left: 270px;
 	}
+	*/
 
 .footer-container {
 	height: 140px;
