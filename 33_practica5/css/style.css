@@ -114,6 +114,10 @@ a {
 	color: #000000
 }*/
 
+h2 {
+	margin-top: 20px;
+}
+
 .three {
 	display: flex;
 	justify-content: space-around;
@@ -148,8 +152,8 @@ a {
 }
 
 .border {
-	width: 1040px;
-	height: 280px;
+	/*width: 1040px;*/
+	/*height: 280px;*/
 	border: 3px solid #F8BFC7;
 	border-radius: 20px;
 	padding: 24px;

@@ -4,6 +4,7 @@ div {
 	width: 200px;
 	height: 200px;
 	background-color: beige;
+	transition: all 1s .5s cubic-bezier(.12, .65, .82, 0);
 }
 
 div:hover {
