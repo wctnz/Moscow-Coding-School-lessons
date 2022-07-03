@@ -1,0 +1,13 @@
+@import url(reset.css);
+
+/*div {
+	width: 200px;
+	min-height: 300px;
+	border: 1px solid black;
+}*/
+
+.max {
+	height: 100px;
+	max-width: 1000px;
+	background-color: beige;
+}
