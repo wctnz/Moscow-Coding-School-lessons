@@ -3,28 +3,28 @@
 				top: 300px;
 				left: 680px;	
 				transform: rotate(0deg);				
-}
+			}
 			15%{
 				top: 300px;
 				left: 260px;
-				transform: rotate(54deg);
+				/*transform: rotate(54deg);*/
 			}
 			25%{
 				top: 300px;
 				left: 260px;
 				z-index: -1;
-				transform: rotate(90deg);
+				/*transform: rotate(90deg);*/
 			}
 			75%{
 				top: 300px;
 				left: 1150px;
 				z-index: -1;
-				transform: rotate(270deg);
+				/*transform: rotate(270deg);*/
 			}
 			85%{
 				top: 300px;
 				left: 1150px;
-				transform: rotate(306deg);
+				/*transform: rotate(306deg);*/
 			}
 			100%{
 				top: 300px;
