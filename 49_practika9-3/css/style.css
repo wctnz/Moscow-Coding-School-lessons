@@ -1,0 +1,68 @@
+@import url(reset.css);
+
+header {
+	width: 365px;
+	height: 100px;
+	background-color: blue;
+	display: flex;
+	align-items: center;
+}
+
+header p {
+	font-family: helvetica;
+	font-size: 25px;
+	line-height: 29px;
+	color: white;
+	position: relative;
+	left: 30px;
+}
+
+section {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+div {
+	width: 40%;
+	height: 300px;
+	border: 5px solid black;
+	box-sizing: border-box;
+	margin: 10px;
+	display: flex;
+	align-items: center;
+}
+
+div p {
+	font-family: helvetica;
+	font-size: 50px;
+	font-height: 57px;
+	text-align: center;
+}
+
+footer {
+	height: 15vh;
+	background-color: blue;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+footer p, footer a {
+	font-family: helvetica;
+	font-size: 25px;
+	line-height: 29px;
+	color: white;
+	text-decoration: none;
+	position: relative;
+}
+
+footer p {
+	left: 30px;
+}
+
+footer a {
+	right: 30px;
+}
