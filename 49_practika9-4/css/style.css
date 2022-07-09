@@ -23,7 +23,7 @@ section {
 }
 
 div {
-	width: 330px;
+	width: 100%;
 	height: 165px;
 	border: 5px solid black;
 	box-sizing: border-box;
