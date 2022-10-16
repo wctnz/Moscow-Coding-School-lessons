@@ -1,0 +1,9 @@
+@import url(reset.css);
+
+img[src="https://popartblog.ru/wp-content/uploads/2021/09/killua-min.png"] {
+	width: 300px;
+}
+
+img[alt="leto"] {
+	width: 600px;
+}

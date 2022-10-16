@@ -1,0 +1,55 @@
+@import url(reset.css);
+
+div.one {
+	padding-top: 20px;
+	position: relative;
+	display: flex;
+	justify-content: space-around;
+}
+
+img {
+	width: 365px;
+	height: 486px;
+	display: block;
+	padding-top: 20px;
+	position: absolute;
+}
+
+div.two {
+	cursor: pointer;
+	width: 365px;
+	height: 486px;
+	background-color: rgba(0, 0, 0, 0.3);
+	padding-top: 20px;
+	opacity: 0;
+	transition-duration: 1s;
+	position: absolute;
+}
+
+div.two:hover {
+	opacity: 1;
+}
+
+p {
+	position: absolute;
+}
+
+p.one, p.two {
+	padding-left: 20px;
+}
+
+p.three {
+	padding-right: 20px;
+	top: 0;
+	right: 0;
+}
+
+p.one {
+	bottom: 0;
+	left: 0;
+}
+
+p.two {
+	top: 0;
+	left: 0;
+}
