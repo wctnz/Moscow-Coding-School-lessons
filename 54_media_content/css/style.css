@@ -1,0 +1,6 @@
+@import url(reset.css);
+
+video {
+	width: 40vw;
+	height: 80vh;
+}
