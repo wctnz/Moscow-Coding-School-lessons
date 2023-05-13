@@ -1,2 +1,2 @@
-# webdev-Moscow Coding School
+# Web-development lessons from Moscow Coding School
  
