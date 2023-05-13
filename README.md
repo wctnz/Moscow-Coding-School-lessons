@@ -1,2 +1,2 @@
-# webdev-mcs
+# webdev-Moscow Coding School
  
